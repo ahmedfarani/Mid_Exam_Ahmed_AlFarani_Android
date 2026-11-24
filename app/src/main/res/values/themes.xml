@@ -1,9 +1,16 @@
-<resources xmlns:tools="http://schemas.android.com/tools">
-    <!-- Base application theme. -->
-    <style name="Base.Theme.Mid_Exam_Ahmed_AlFarani" parent="Theme.Material3.DayNight.NoActionBar">
-        <!-- Customize your light theme here. -->
-        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+<resources>
+    <style name="Base.Theme.Mid_Exam_Ahmed_AlFarani"
+        parent="Theme.Material3.DayNight.NoActionBar">
+
+        <item name="colorPrimary">@color/primary_color</item>
+        <item name="colorOnPrimary">@color/button_text_color</item>
+        <item name="colorSecondary">@color/primary_color</item>
+        <item name="colorOnSecondary">@color/button_text_color</item>
+
+        <item name="android:statusBarColor">@color/toolbar_background</item>
+        <item name="android:navigationBarColor">@color/screen_background</item>
     </style>
 
-    <style name="Theme.Mid_Exam_Ahmed_AlFarani" parent="Base.Theme.Mid_Exam_Ahmed_AlFarani" />
+    <style name="Theme.Mid_Exam_Ahmed_AlFarani"
+        parent="Base.Theme.Mid_Exam_Ahmed_AlFarani" />
 </resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="screen_background">#17152A</color>
+    <color name="text_color">#F5F1FF</color>
+    <color name="hint_color">#B6B0D0</color>
+
+    <color name="primary_color">#A99AFB</color>
+    <color name="button_text_color">#211B3D</color>
+
+    <color name="input_background">#302C49</color>
+    <color name="surface_color">#22203A</color>
+    <color name="toolbar_background">#211D3B</color>
+    <color name="toolbar_text">#F5F1FF</color>
+
+    <color name="tab_unselected_color">#B6B0D0</color>
+    <color name="ripple_color">#3B345B</color>
+</resources>
